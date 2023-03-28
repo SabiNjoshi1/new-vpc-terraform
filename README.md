@@ -1,3 +1,5 @@
 # new-vpc-terraform
-!()[output.jpg]
-!()[destroy.jpg]
+# Output
+![](output.jpg)
+# Destroy
+![](output.jpg)
